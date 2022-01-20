@@ -1,0 +1,15 @@
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.csproj.AssemblyReference.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.AssemblyInfoInputs.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.AssemblyInfo.cs
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.csproj.CoreCompileInputs.cache
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\dio.livros.exe
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\dio.livros.deps.json
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\dio.livros.runtimeconfig.json
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\dio.livros.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\ref\dio.livros.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\bin\Debug\net6.0\dio.livros.pdb
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\ref\dio.livros.dll
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.pdb
+E:\Dropbox\Programacao\DIO\DecolaTech\Praticas\dio.livros\obj\Debug\net6.0\dio.livros.genruntimeconfig.cache
